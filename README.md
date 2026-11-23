@@ -14,7 +14,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 - [x] ICLR 2026  
 - [x] AAAI 2026   
 - [x] CVPR 2026  
-- [ ] MM 2026  
+- [x] MM 2026  
 - [x] ICML 2026
 - [x] IJCAI 2026
 - [ ] NeurIPS 2026  
@@ -53,6 +53,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons (NeurIPS'2022)
  - Differentiable hierarchical and surrogate gradient search for spiking neural networks (NeurIPS'2022)
  - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (AAAI'2023)
+ - Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition (MM'2026)
 
 </details>
 
@@ -166,6 +167,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Temporal Interaction in Spiking Transformers with Multi-Delay Mixer (CVPR'2026)
  - SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network (CVPR'2026)
  - SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking (CVPR'2026)
+ - SpikeGeo: Dual-Guidance Enhanced Spiking Neural Network for Energy-Efficient Cross-View Geo-Localization (MM'2026)
 
 </details>
 
@@ -217,6 +219,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (AAAI'2026)
  - Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras (ICML'2026)
  - Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features (CVPR'2026)
+ - Spiking Neural Network with Mixture of Heterogeneous Enhancement Experts for Underwater Object Detection (MM'2026)
+ - SpikingGait: A Structural-to-Volumetric Spike-Driven Backbone for Gait Recognition (MM'2026)
 
 </details>
 
@@ -241,6 +245,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream (CVPR'2024)
  - Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control (NeurIPS'2025)
  - Spik-NeRF: Spiking Neural Networks for Neural Radiance Fields (NeurIPS'2025)
+ - Spike-Driven LiDAR Point Cloud Compression via Just Recognizable Distortion (MM'2026)
 
 </details>
 
@@ -270,6 +275,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks (ICML'2026)
  - Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices (ICML'2026)
  - Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning (ICML'2026)
+ - An Efficient Structural Pruning for Spiking Neural Networks by Balancing Accuracy and Sparsification (MM'2026)
+ - Towards Energy Efficient Spiking Neural Networks: a Homeostatic Metabolic Pruning Framework (MM'2026)
 
 </details>
 
@@ -320,6 +327,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback (ICML'2026)
  - Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN-SNN Conversion (ICML'2026)
  - Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks (IJCAI'2026)
+ - Ge$^2$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer (MM'2026)
 
 </details>
 
@@ -362,6 +370,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra (ICML'2026)
  - Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model (ICML'2026)
  - Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses (CVPR'2026)
+ - ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization (MM'2026)
+ - Hierarchical Temporal Residual Dynamics Network for Spiking Object Detectors (MM'2026)
 
 </details>
 
@@ -418,6 +428,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks (ICML'2026)
  - A2SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks (ICML'2026)
  - Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization (ECCV'2026)
+ - Efficient Spiking Neural Networks with Autapse-Enhanced Temporal Coding (MM'2026)
+ - Deep-TTFS: Scaling Time-to-First-Spike Neural Networks to ImageNet with High-Fidelity Temporal Fusion (MM'2026)
 
 </details>
 
@@ -492,6 +504,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - HLML-SNN: Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (AAAI'2026)
  - Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning (ICLR'2026)
  - SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network (ICLR'2026)
+ - Adaptive Sparse Structural Evolution for Continual Learning in Spiking Neural Networks (MM'2026)
 
 </details>
 
